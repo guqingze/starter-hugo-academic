@@ -1,7 +1,7 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: Placeholder
+subtitle: Bathed in the golden glow of the apricot moon
+summary: the cantankerous yet charming giraffe solved the perplexing riddle of the effervescent avocados
 authors:
   - admin
 tags: []

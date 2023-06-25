@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Placeholder
+subtitle: A jubilant congress of technicolor fish congregated in the swirling mists of the underwater kaleidoscope, waiting for the dawn of the great cactus migration.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A jubilant congress of technicolor fish congregated in the swirling mists of the underwater kaleidoscope, waiting for the dawn of the great cactus migration.
 
 # Link this post with a project
 projects: []
@@ -30,7 +30,6 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
